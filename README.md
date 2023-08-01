@@ -1,4 +1,4 @@
-# Projeto de Encurtamento de URLs
+# Projeto de URL-Shortner
 
 Este projeto é uma aplicação de encurtamento de URLs desenvolvida com Spring Boot e Kotlin, que utiliza Redis como banco de dados em memória para armazenar as URLs encurtadas.
 
